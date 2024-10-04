@@ -16,8 +16,12 @@ h1{
 a.button{
     padding: 1px 6px;
     border: 1px outset black;
-    border-radius: 3px;
-    color: black;
-    background-color: white;
+    border-radius: 10px;
+    color: white;
+    text-shadow: 2px 2px black;
+    background-color: rgba(240, 255, 255, 0.3);
     text-decoration: none;
+    font-size: 300%;
+    margin-left: 15%;
+    margin-right: 15%;
 }

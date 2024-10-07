@@ -33,3 +33,10 @@ a.button{
 a.button:hover{
     background-color: rgba(200, 215, 215, 0.3);
 }
+#logo {
+    height: 125px;
+    border-radius: 4cqmin;
+    position: fixed;
+    top: 20px;
+    left: 25px;
+}
